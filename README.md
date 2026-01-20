@@ -12,7 +12,6 @@
 
 <p align="center">
   <b>Building scalable web applications with React, NodeJS & TypeScript.<br>
-  Currently @ <a href="https://cloudcity.com.co">CloudCity Colombia</a></b>
 </p>
 
 ---
